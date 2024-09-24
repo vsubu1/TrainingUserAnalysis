@@ -1,6 +1,6 @@
 # TrainingUserAnalysis
 
-This project performs classification and prediction using machine learning algorithms for training users dataset. This project uses SQLite DB which is preloaded with the set of user training data.
+This project performs classification and prediction using machine learning algorithms for training users dataset. This project uses REST API using Flask and SQLite DB which is preloaded with the set of user training data.
 To Setup Project
 
     Download the repository
